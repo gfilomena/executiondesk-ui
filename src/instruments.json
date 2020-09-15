@@ -1,0 +1,2004 @@
+{
+  "payload":[
+    {
+      "id":415993002,
+      "name":"0 %    NEW SOUTH WALES TR. 90-20 (638844)",
+      "classes":{
+        "ass_type":{
+          "name":"Bond/Note - Zero Bond",
+          "internalId":"bnzb"
+        }
+      }
+    },
+    {
+      "id":28651002,
+      "name":"1.2-4.74% Argentine Republic 2003-31.12.2038 Step-Up  (2047256)",
+      "classes":{
+        "ass_type":{
+          "name":"Bond/Note - Floating Rate",
+          "internalId":"bnfl"
+        }
+      }
+    },
+    {
+      "id":22059002,
+      "name":"13.5% TRANSNET LTD. 1998-2028 (859598)",
+      "classes":{
+        "ass_type":{
+          "name":"Bond/Note - Fixed Rate",
+          "internalId":"bnfi"
+        }
+      }
+    },
+    {
+      "id":414410002,
+      "name":"4 %    DARLEHEN GEN.LAUDINELLA",
+      "classes":{
+        "ass_type":{
+          "name":"Bond/Note - Fixed Rate",
+          "internalId":"bnfi"
+        }
+      }
+    },
+    {
+      "id":419547002,
+      "name":"6% General Electric Cap.Corp GECC -Fips 1986-pp (876689)",
+      "classes":{
+        "ass_type":{
+          "name":"Bond/Note - Dual Currency",
+          "internalId":"bndc"
+        }
+      }
+    },
+    {
+      "id":419594002,
+      "name":"6.50 % GENERAL MOTORS CORP. 1986-PERP. (876926)",
+      "classes":{
+        "ass_type":{
+          "name":"Bond/Note - Dual Currency",
+          "internalId":"bndc"
+        }
+      }
+    },
+    {
+      "id":434740002,
+      "name":"6.75 % General Motors Corp Notes (893709)",
+      "classes":{
+        "ass_type":{
+          "name":"Bond/Note - Fixed Rate",
+          "internalId":"bnfi"
+        }
+      }
+    },
+    {
+      "id":453065002,
+      "name":"9.375% Venezuela 2004-2034 Global (1763217)",
+      "classes":{
+        "ass_type":{
+          "name":"Bond/Note - Fixed Rate",
+          "internalId":"bnfi"
+        }
+      }
+    },
+    {
+      "id":417914002,
+      "name":"ABONNENTEN-INFORMATIONEN (999110)",
+      "classes":{
+        "ass_type":{
+          "name":"Bond/Note - Zero Bond",
+          "internalId":"bnzb"
+        }
+      }
+    },
+    {
+      "id":55313002,
+      "name":"AL Hassan Engineer",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":354201002,
+      "name":"AMERICAN BUSINESS FIN.SVCS.INC (60194)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30321002,
+      "name":"AO MOSENERGO (RU0008958863)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":421643002,
+      "name":"ASSICURAZIONI GENERALI (566030)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55470002,
+      "name":"Abu Dhab Nat Energy",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":55736002,
+      "name":"Adv Polypropylene",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":199911002,
+      "name":"Aktien Fonds Schweiz - Institutionnel",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Equity",
+          "internalId":"fdtr"
+        }
+      }
+    },
+    {
+      "id":55669002,
+      "name":"Al Safat Energy Hld",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":30480002,
+      "name":"Alum Corp -H- (CNE1000001T8)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":22052002,
+      "name":"Amadeus Energy Ltd. (611552)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":413978002,
+      "name":"Ansprüche CS Anlagestiftung - Obligationen Euro (287501)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Bond",
+          "internalId":"fdbo"
+        }
+      }
+    },
+    {
+      "id":55492002,
+      "name":"Aref Energy Hld",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":421235002,
+      "name":"Astrazeneca Plc (982352)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":432183002,
+      "name":"Astro All Asia Networks Plc -Malaysian Reg.- (1693101)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":453047002,
+      "name":"Austrian Airlines",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":412548002,
+      "name":"BAUMGARTNER PAPIERS HOLD. NAMEN (217577)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":425093002,
+      "name":"BENETTON GROUP SPA AKTIEN (1239725)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":421431002,
+      "name":"BERNER KANTONALBANK NAMEN (969160)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":26779002,
+      "name":"BKW FMB Energie N",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":416848002,
+      "name":"BONDPARTNERS SA INHABER (622741)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":417230002,
+      "name":"BRIDGESTONE CORP. (761580)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55641002,
+      "name":"Bahrain Cinema",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":154810002,
+      "name":"Banesto R ",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30481002,
+      "name":"Bank of China -H- (CNE1000001Z5)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30305002,
+      "name":"Bashneft (RU0007976957)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":21951002,
+      "name":"Bettmeralp Bahnen N",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30482002,
+      "name":"Bk of Comm -H- (CNE100000205)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":419865002,
+      "name":"CELGENE CORP (916749)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":411325002,
+      "name":"CLUB MEDITERRANEE SA (488750)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":420433002,
+      "name":"CMS ENERGY CORP (919297)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30488002,
+      "name":"CN Petro & Chem -H- (CNE1000002Q2)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":26789002,
+      "name":"COLTENE N (2534325)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":316654002,
+      "name":"CS Equity Fd.(Lux) Fcp-Glob.Internet-B- -Cap.(1058089)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Strategy",
+          "internalId":"fstr"
+        }
+      }
+    },
+    {
+      "id":153314002,
+      "name":"CS Equity Fund Global Energy -Anteile- (278920)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Equity",
+          "internalId":"fdtr"
+        }
+      }
+    },
+    {
+      "id":300548002,
+      "name":"CS Money Market FD (Lux)/Euro -B- -Cap.- (946341)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Money Market",
+          "internalId":"fdmm"
+        }
+      }
+    },
+    {
+      "id":316545002,
+      "name":"CS Money Market Fund (Lux) Fcp - GBP -B-Cap(218488)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Money Market",
+          "internalId":"fdmm"
+        }
+      }
+    },
+    {
+      "id":30709002,
+      "name":"Cairn Energy (GB00B1RZDL64)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55853002,
+      "name":"Centerenehldg Pref",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Preferred",
+          "internalId":"spre"
+        }
+      }
+    },
+    {
+      "id":55852002,
+      "name":"Centerenergyholding",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30485002,
+      "name":"Ch Shenhua Engy -H- (CNE1000002R0)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30486002,
+      "name":"China Constrct Bk -H- (CNE1000002H1)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30487002,
+      "name":"China Life Ins -H- (CNE1000002L3)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":422788002,
+      "name":"Cia Energetica de Minas CMIG -ADR- (1116224)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55489002,
+      "name":"Combined Gp Contrac",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":55340002,
+      "name":"Computer Stationery",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":415184002,
+      "name":"Continental AG (327800)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":423827002,
+      "name":"Cornerstone Total Return Fund Inc (1511603)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Equity",
+          "internalId":"fdtr"
+        }
+      }
+    },
+    {
+      "id":33687002,
+      "name":"DAX/SOPP Zt 2004-ohne festen Verfall auf DAX-Index (1791925)",
+      "classes":{
+        "ass_type":{
+          "name":"Hybrid",
+          "internalId":"hybr"
+        }
+      }
+    },
+    {
+      "id":30760002,
+      "name":"DISH Network-A (US25470M1099)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":31157002,
+      "name":"Datang International Power Generation Co Ltd (608931)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":423754002,
+      "name":"Dow Jones Stoxx 50 SMEX (1174967)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Other",
+          "internalId":"fdot"
+        }
+      }
+    },
+    {
+      "id":31152002,
+      "name":"Duke Energy (2507465)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":419806002,
+      "name":"E.I. DU PONT DE NEMOURS & CO (927399)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":415769002,
+      "name":"ELETTRICA SOPRACENERINA NAMEN (469944)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":426204002,
+      "name":"ENEL  (1250633)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":428338002,
+      "name":"ENERGIEDIENST HOLDING AG NAMEN (1573870)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55118002,
+      "name":"Econet",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55075002,
+      "name":"Emerald Energy",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55592002,
+      "name":"Energiedienst Hld N",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":238091002,
+      "name":"FIALA HOLDING -0.50% (NEGATIVE COUPON) 2015/2035",
+      "classes":{
+        "ass_type":{
+          "name":"Bond/Note - Fixed Rate",
+          "internalId":"bnfi"
+        }
+      }
+    },
+    {
+      "id":120913002,
+      "name":"Fid Indonesia AD Distribution",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Other",
+          "internalId":"fdot"
+        }
+      }
+    },
+    {
+      "id":30456002,
+      "name":"Fraser & Neave (SG1T58930911)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":412530002,
+      "name":"GARES FRIGORIFIQUES GENEVE FR.20 (231231)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":421267002,
+      "name":"GENERAL MOTORS (933261)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":414323002,
+      "name":"GENETRONICS BIOMEDICAL CORP (285814)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":421371002,
+      "name":"GENZYME CORP / GENERAL DIVISION (933787)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":424958002,
+      "name":"GOTTEX VAL.ADD.FD/MKT.NEUTR.FD-E- (1220257)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Equity",
+          "internalId":"fdtr"
+        }
+      }
+    },
+    {
+      "id":411383002,
+      "name":"GRAUBUENDNER KANTONALBK PART-SCH (134020)",
+      "classes":{
+        "ass_type":{
+          "name":"Participation Certificate",
+          "internalId":"parc"
+        }
+      }
+    },
+    {
+      "id":55642002,
+      "name":"Gene Trad A Food Pr",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":420139002,
+      "name":"General Electric Co (933071)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55100002,
+      "name":"Genesis",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55904002,
+      "name":"Genesis Energy Inv Em 07",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":422729002,
+      "name":"GlaxoSmithKline Plc (1102657)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":415937002,
+      "name":"Groupe Danone (487663)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":55297002,
+      "name":"Gulf General Inv Co",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":55508002,
+      "name":"Gulf Stone Co",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":412920002,
+      "name":"HARWANNE CIE D.PARTICIPATIONS -B- (160984)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":414886002,
+      "name":"HUGO BOSS VORZ (OHNE STIMMRECHT) (326000)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":425122002,
+      "name":"Huber & Suhner AG Kabel-Kautschuk-Kunstst.N.(1239824)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30489002,
+      "name":"ICBC -H- (CNE1000003G1)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":427912002,
+      "name":"INFINEON TECHNOLOGIES AG NAMEN (1038049)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55876002,
+      "name":"Intergener Pref",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Preferred",
+          "internalId":"spre"
+        }
+      }
+    },
+    {
+      "id":55875002,
+      "name":"Intergeneration",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":173115002,
+      "name":"Intl Minerals ",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55794002,
+      "name":"Irkutsk El Net",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":426655002,
+      "name":"JAPAN AIRLINES SYSTEMS CORP (1367990)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30338002,
+      "name":"JSC - The Seventh Continent (RU000A0DM8R7)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30339002,
+      "name":"JSC Gazprom Neft (RU0009062467)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30316002,
+      "name":"JSC Irkutskenergo (RU0008960828)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30460002,
+      "name":"Jardine Cycle &Carr (SG1B51001017)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":416802002,
+      "name":"Jardine Matheson Holdings Ltd  (645289)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":416814002,
+      "name":"Jardine Strategic Holdings Ltd (Bermudas) (645442)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":143406002,
+      "name":"Jasmine Intl -F- Foreign Registered",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":418476002,
+      "name":"Juniper Networks",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":425675002,
+      "name":"KUEHNE & NAGEL INTERNATIONAL NAM. (1254181)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":26788002,
+      "name":"Kuehne & Nagel Intl (2523886)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55994002,
+      "name":"Kuwait Business",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55488002,
+      "name":"Kuwait Nat Airlines",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55648002,
+      "name":"Kuwait Nat Cinema",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":55803002,
+      "name":"Kuzbassene Hl Pref",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Preferred",
+          "internalId":"spre"
+        }
+      }
+    },
+    {
+      "id":55800002,
+      "name":"Kuzbassenergo Hldg",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":411810002,
+      "name":"LEGAL & GENERAL GROUP PLC (457145)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":419713002,
+      "name":"LINEAR TECHNOLOGY CORP (947670)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":413214002,
+      "name":"LO HOLDING LAUSANNE-OUCHY NAMEN (163915)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":423406002,
+      "name":"LUZERNER KANTONALBANK NAMEN (1169360)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":347773002,
+      "name":"LVMH MOET HENNESSY LOUIS VUITTON (507170)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":425901002,
+      "name":"MARKS AND SPENCER GROUP PLC (NEW) (1365056)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":418902002,
+      "name":"MINEBEA CO LTD (763005)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":128118002,
+      "name":"MLCARB/MLCM Ct 2008-ohne Endverfall auf Merill Lynch Carbon Leader Index",
+      "classes":{
+        "ass_type":{
+          "name":"Hybrid",
+          "internalId":"hybr"
+        }
+      }
+    },
+    {
+      "id":414874002,
+      "name":"MUENCHENER RUECKVERS.NAM. -VINK.- (341960)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55043002,
+      "name":"Mabanee Co",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":55898002,
+      "name":"Marine Bander Al Ro",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":435124002,
+      "name":"Mitsui O.S.K.Lines Ltd (914318)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":424865002,
+      "name":"Mobilezone Hldg. (125834)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":55850002,
+      "name":"Mosenergo Hldg",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55849002,
+      "name":"Mosenergo Hldg Pref",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Preferred",
+          "internalId":"spre"
+        }
+      }
+    },
+    {
+      "id":55082002,
+      "name":"Mosenergosbyt",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55277002,
+      "name":"Mosenerosetstroy",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55276002,
+      "name":"Mosteplosetenergo",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":418852002,
+      "name":"NEC CORP (762990)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":418456002,
+      "name":"NEPTUNE ORIENT LINES LTD (824255)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":417964002,
+      "name":"NESTLE (MALAYSIA) BHD (779327)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":417332002,
+      "name":"NETINVEST HOLDING AG NAMEN (731740)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":411869002,
+      "name":"NEUE ZÜRCHER ZEITUNG NAMEN (138001)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":416125002,
+      "name":"NEW WORLD DEVELOPMENT CO LTD (421553)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":173111002,
+      "name":"NEWRON PHARMA ",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":431957002,
+      "name":"NEXT PLC (1501134)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":417665002,
+      "name":"NIPPON TELEGRAPH & TELEPHONE CORP (764057)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55205002,
+      "name":"Nat Marine Dredging",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":55275002,
+      "name":"Natl Mineral Water",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":56074002,
+      "name":"Neohim",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55871002,
+      "name":"Neose Technologies",
+      "classes":{
+        "ass_type":{
+          "name":"Other Asset",
+          "internalId":"otha"
+        }
+      }
+    },
+    {
+      "id":228725002,
+      "name":"Neptune Global Class A CHF",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Equity",
+          "internalId":"fdtr"
+        }
+      }
+    },
+    {
+      "id":424644002,
+      "name":"Nestle SA Nam. (1205604)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":28402002,
+      "name":"Nestle SA Nam. (3886335)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":412857002,
+      "name":"NetApp Inc  (3906336)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55744002,
+      "name":"Network Hldg Co",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":27022002,
+      "name":"Newave N (3041731)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30813002,
+      "name":"News-B (US65248E2037)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":420095002,
+      "name":"Norddeutsche Affinerie AG (917955)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":30333002,
+      "name":"OJSC - OC - Rosneft (RU000A0J2Q06)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55218002,
+      "name":"OLMA-Oil&Energy Fd",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Other",
+          "internalId":"fdot"
+        }
+      }
+    },
+    {
+      "id":55349002,
+      "name":"Oman Chlorine Co",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":423085002,
+      "name":"PICTET MONEY MARKET (CHF) -P- ANT (1129231)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Money Market",
+          "internalId":"fdmm"
+        }
+      }
+    },
+    {
+      "id":423110002,
+      "name":"PICTET MONEY MARKET (USD) -P- ANT (1129241)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Money Market",
+          "internalId":"fdmm"
+        }
+      }
+    },
+    {
+      "id":419686002,
+      "name":"PILATUS-BAHNEN NAMEN (900597)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30963002,
+      "name":"PIONEER (JP3780200006)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55454002,
+      "name":"PannErgy NyRt.",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":23175002,
+      "name":"Partners Group Holding Namen (2460882)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30490002,
+      "name":"PetroChina -H- (CNE1000003W8)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":300655002,
+      "name":"Pictet Money Market - (EUR) -P- (1129236)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Money Market",
+          "internalId":"fdmm"
+        }
+      }
+    },
+    {
+      "id":30491002,
+      "name":"Ping An Ins -H- (CNE1000003X6)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":411293002,
+      "name":"Pioneer Intl Value Fund -A-  (133045)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Equity",
+          "internalId":"fdtr"
+        }
+      }
+    },
+    {
+      "id":300559002,
+      "name":"Pioneer Mid-Cap Value Fund -A- (1054017)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Equity",
+          "internalId":"fdtr"
+        }
+      }
+    },
+    {
+      "id":55090002,
+      "name":"Placeuro Gold Mines",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Other",
+          "internalId":"fdot"
+        }
+      }
+    },
+    {
+      "id":430089002,
+      "name":"RAETIA ENERGIE AG PART-SCH. (1640584)",
+      "classes":{
+        "ass_type":{
+          "name":"Participation Certificate",
+          "internalId":"parc"
+        }
+      }
+    },
+    {
+      "id":452730002,
+      "name":"Redback Networks",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":29001002,
+      "name":"Reinet Investments SCA (4503016)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":26793002,
+      "name":"Romande Energie N",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":411332002,
+      "name":"SCHNEIDER ELECTRIC SA (509120)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":416311002,
+      "name":"SCOTTISH AND SOUTHERN ENERGY PLC (389233)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":423047002,
+      "name":"SHL TELEMEDICINE LTD NAMEN (1128957)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30468002,
+      "name":"SIA Engineering Co (SG1I53882771)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":423132002,
+      "name":"SMITH & NEPHEW PLC (1103058)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":128423002,
+      "name":"SNE/AAB Ct 2006-Without fixed maturity on adr Sony",
+      "classes":{
+        "ass_type":{
+          "name":"Hybrid",
+          "internalId":"hybr"
+        }
+      }
+    },
+    {
+      "id":412843002,
+      "name":"SOURCES MINERALES HENNIEZ NAMEN (234525)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":411188002,
+      "name":"STE GENERALE PARIS -A- (519928)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":55997002,
+      "name":"Saudi Refineries",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":419511002,
+      "name":"Schaffner Holding (906209)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":421997002,
+      "name":"Scudder New Asia Fund Inc (969054)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Equity",
+          "internalId":"fdtr"
+        }
+      }
+    },
+    {
+      "id":30467002,
+      "name":"SembCorp Marine (SG1H97877952)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55874002,
+      "name":"Sibenergyhldg Pref",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Preferred",
+          "internalId":"spre"
+        }
+      }
+    },
+    {
+      "id":55873002,
+      "name":"Sibenergyholding",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30469002,
+      "name":"Singapore Airlines (SG1V61937297)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":417444002,
+      "name":"Singapore Technologies Engineering Ltd (706357)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":56051002,
+      "name":"Smurfit-Stone Cont",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30341002,
+      "name":"Surgutneftegas (RU0008926258)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":30342002,
+      "name":"Surgutneftegas - Pref SNGSP (RU0009029524)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55109002,
+      "name":"Synergon",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":418961002,
+      "name":"TITLISBAHNEN ENGELBERG-TRUEBS.NAM (830550)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":56028002,
+      "name":"TNU Em.90 rep.1 act.ESA et EPLC 'jum.n.neg.avec avant.tar.E90",
+      "classes":{
+        "ass_type":{
+          "name":"Other Asset",
+          "internalId":"otha"
+        }
+      }
+    },
+    {
+      "id":56027002,
+      "name":"TNU rep.1 act.ESA et EPLC 'jumel.'n.neg.avec avant.tar.",
+      "classes":{
+        "ass_type":{
+          "name":"Other Asset",
+          "internalId":"otha"
+        }
+      }
+    },
+    {
+      "id":30345002,
+      "name":"Tatneft (RU0009033591)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":451941002,
+      "name":"Tavex Algodonera SA (861977)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":452204002,
+      "name":"Threadneedle Inv.Fd.American Sel.Gr.Ser.1-Acc- (1315520)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Bond",
+          "internalId":"fdbo"
+        }
+      }
+    },
+    {
+      "id":120911002,
+      "name":"Time Warner",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":431696002,
+      "name":"Time Warner Inc (1700642)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":56083002,
+      "name":"Topaz Energy Mar",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Bearer",
+          "internalId":"shab"
+        }
+      }
+    },
+    {
+      "id":30347002,
+      "name":"Transneft - Pref TRNFP (RU0009091573)",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":55399002,
+      "name":"TvNetWork",
+      "classes":{
+        "ass_type":{
+          "name":"Share - Registered",
+          "internalId":"sreg"
+        }
+      }
+    },
+    {
+      "id":300272002,
+      "name":"UBS (LUX) Money Market Fund (595225)",
+      "classes":{
+        "ass_type":{
+          "name":"Fund - Money Market",
+          "internalId":"fdmm"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  "{{repeat(5, 7)}}",
+  {
+    "orderNumber": "{{integer(100000000000,100000900000)}}",
+    "status": "{{random(\"TD Ready to be traded\",\"TDcModification required\")}}",
+    "elapsed": "{{floating(-0.59, -0.01, 2)}}",
+    "responsible": "{{random(\"Open\",\"MS\", \"CS\")}}",
+    "orderType": "{{random(\"Buy\",\"Sell\", \"Buy to Open\")}}",
+    "qty": "{{random(\"+\",\"-\")}} {{integer(1,1000)}}",
+    "instrumentIsin": "{{random(\"CH0038863350\",\"CH0038863352\", \"CH0038863351\")}}",
+    "executionType": "{{random(\"Stop Limit\",\"At Market\",\"Limited(100)\",\"Stop Market\")}}",
+    "validity": "{{date(new Date(2020, 0, 1), new Date(), \"dd-MM-YYYY\")}}",
+    "assetClass": "{{random(\"Share\",\"Future\")}}",
+    "currency": "{{random(\"USD\",\"CHF\",\"EUR\",\"AUD\",\"SEK\")}}",
+    "market": "{{random(\"LCH\",\"SWX\",\"\"NSDQ\")}}",
+    "estPrice": "{{floating(1, 1000000, 2)}}"
+  }
+]
