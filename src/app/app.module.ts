@@ -6,6 +6,7 @@ import { AgGridModule } from 'ag-grid-angular';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { FilterIconComponent } from './components/filter-icon/filter-icon.component';
+import { IconButtonRendererComponent } from './components/filter-icon/icon-button-renderer.component';
 import { HeaderComponent } from './components/header/header.component';
 import { OrdersTableComponent } from './components/orders-table/orders-table.component';
 import { AllMaterialModule } from './material-module';
@@ -16,6 +17,7 @@ import { AllMaterialModule } from './material-module';
     OrdersTableComponent,
     HeaderComponent,
     FilterIconComponent,
+    IconButtonRendererComponent,
   ],
   imports: [
     BrowserModule,
@@ -23,7 +25,10 @@ import { AllMaterialModule } from './material-module';
     BrowserAnimationsModule,
     AllMaterialModule,
     HttpClientModule,
-    AgGridModule.withComponents([]),
+    AgGridModule.withComponents([
+      FilterIconComponent,
+      IconButtonRendererComponent,
+    ]),
   ],
   providers: [],
   bootstrap: [AppComponent],

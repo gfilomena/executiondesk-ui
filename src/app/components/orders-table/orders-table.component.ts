@@ -1,8 +1,9 @@
 import { GridOptions } from '@ag-grid-community/all-modules';
 import { Component, OnInit, ViewChild } from '@angular/core';
 import { AgGridAngular } from 'ag-grid-angular/public-api';
-import { MarketOrder } from 'src/models/table.definitions';
+import { FieldTable, MarketOrder } from 'src/models/table.definitions';
 import { OrdersService } from 'src/services/rest/orders.service';
+import { FilterIconComponent } from '../filter-icon/filter-icon.component';
 
 @Component({
   selector: 'orders-table',
@@ -10,8 +11,6 @@ import { OrdersService } from 'src/services/rest/orders.service';
   styleUrls: ['./orders-table.component.scss'],
 })
 export class OrdersTableComponent implements OnInit {
-  constructor(private ordersService: OrdersService) {}
-
   public gridOptions: GridOptions;
 
   @ViewChild('agGrid') agGrid: AgGridAngular;
@@ -20,85 +19,92 @@ export class OrdersTableComponent implements OnInit {
   gridColumnApi;
   defaultColDef = { resizable: true };
   colResizeDefault = 'shift';
+  columnDefs: FieldTable[];
+  autoGroupColumnDef: any;
   rowData: MarketOrder[];
+  frameworkComponents: any;
 
-  columnDefs = [
-    {
-      headerName: 'Order Number',
-      field: 'orderId',
-      sortable: true,
-      filter: true,
-      checkboxSelection: true,
-    },
-    {
-      headerName: 'Status',
-      field: 'status',
-      sortable: true,
-      filter: true,
-    },
-    {
-      headerName: 'Elapsed',
-      field: 'dateCreated',
-      sortable: true,
-      filter: true,
-    },
-    {
-      headerName: 'Responsible',
-      field: 'responsible',
-      sortable: true,
-      filter: true,
-    },
-    {
-      headerName: 'Order Type',
-      field: 'orderType',
-      sortable: true,
-      filter: true,
-    },
-    { headerName: 'Qty', field: 'quantity', sortable: true, filter: true },
-    {
-      headerName: '',
-      field: 'isinGroupAvailable',
-      sortable: true,
-      filter: true,
-      cellRenderer: this.showFilterIcon,
-    },
-    {
-      headerName: 'Instrument ISIN',
-      field: 'instrument',
-      sortable: true,
-      filter: true,
-    },
-    {
-      headerName: 'Execution Type',
-      field: 'execType',
-      sortable: true,
-      filter: true,
-    },
-    { headerName: 'Validity', field: 'validity', sortable: true, filter: true },
-    {
-      headerName: 'Asset Class',
-      field: 'assetClass',
-      sortable: true,
-      filter: true,
-    },
-    { headerName: 'Currency', field: 'currency', sortable: true, filter: true },
-    { headerName: 'Market', field: 'market', sortable: true, filter: true },
-    {
-      headerName: 'Est.Price',
-      field: 'estPrice',
-      sortable: true,
-      filter: true,
-    },
-  ];
+  constructor(private ordersService: OrdersService) {
+    this.columnDefs = [
+      {
+        headerName: 'Order Number',
+        field: 'orderId',
+        sortable: true,
+        checkboxSelection: true,
+      },
+      {
+        headerName: 'Status',
+        field: 'status',
+        sortable: true,
+      },
+      {
+        headerName: 'Elapsed',
+        field: 'dateCreated',
+        sortable: true,
+      },
+      {
+        headerName: 'Responsible',
+        field: 'responsible',
+        sortable: true,
+      },
+      {
+        headerName: 'Order Type',
+        field: 'orderType',
+        sortable: true,
+      },
+      { headerName: 'Qty', field: 'quantity', sortable: true },
+      {
+        headerName: '',
+        field: 'isinGroupAvailable',
+        sortable: true,
+        cellRenderer: 'filterIconRenderer',
+      },
+      {
+        headerName: 'Instrument ISIN',
+        field: 'instrument',
+        sortable: true,
+      },
+      {
+        headerName: 'Execution Type',
+        field: 'execType',
+        sortable: true,
+      },
+      {
+        headerName: 'Validity',
+        field: 'validity',
+        sortable: true,
+      },
+      {
+        headerName: 'Asset Class',
+        field: 'assetClass',
+        sortable: true,
+      },
+      {
+        headerName: 'Currency',
+        field: 'currency',
+        sortable: true,
+      },
+      { headerName: 'Market', field: 'market', sortable: true },
+      {
+        headerName: 'Est.Price',
+        field: 'estPrice',
+        sortable: true,
+      },
+    ];
 
-  autoGroupColumnDef = {
-    headerName: 'Model',
-    field: 'model',
-    cellRenderer: 'agGroupCellRenderer',
-    cellRendererParams: {
-      checkbox: true,
-    },
-  };
+    this.autoGroupColumnDef = {
+      headerName: 'Model',
+      field: 'model',
+      cellRenderer: 'agGroupCellRenderer',
+      cellRendererParams: {
+        checkbox: true,
+      },
+    };
+
+    this.frameworkComponents = {
+      filterIconRenderer: FilterIconComponent,
+    };
+  }
 
   onFirstDataRendered(params) {
     params.api.sizeColumnsToFit();
@@ -111,10 +117,13 @@ export class OrdersTableComponent implements OnInit {
   }
 
   showFilterIcon(params) {
-    return params.data.isinGroupAvailable
-      ? `<mat-icon (click)="order_filtered()" class="mat-icon material-icons mat-icon-no-color" role="img" aria-hidden="true">
-      filter_alt</mat-icon>`
-      : '';
+    if (params.data.isinGroupAvailable) {
+    }
+
+    // return params.data.isinGroupAvailable
+    //   ? `<mat-icon (click)="order_filtered()" class="mat-icon material-icons mat-icon-no-color" role="img" aria-hidden="true">
+    //   filter_alt</mat-icon>`
+    //   : '';
   }
   //<button (click)="test()"><i class="material-icons" >filter_alt</i></button>
   getSelectedRows() {
